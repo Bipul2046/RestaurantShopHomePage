@@ -1,0 +1,77 @@
+*{
+    margin : 0px;
+}
+body {
+    background-color: rgb(129, 93, 143);
+
+}
+.box{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+header{
+    margin-top : 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.navbar-inverse{
+    background-color:rgba(41, 39, 39, 0.377);
+    border : 0px;
+}
+.main-box{
+    padding:20px; 
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.main-box a{
+    color : white;
+    text-decoration: underline;
+}
+.maps{
+    padding :30px;
+}
+.youtube_link {
+      
+      text-align: center;
+}
+footer{
+    
+    background-color: rgba(0, 0, 0, 0.733);
+    text-align: center;
+    padding :30px;
+}
+.fa {
+    padding: 10px;
+    font-size: 24px;
+   
+    text-align: center;
+    text-decoration: none;
+    
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
